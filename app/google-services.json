@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "979173611626",
+    "firebase_url": "https://englishcrossword-37320-default-rtdb.firebaseio.com",
+    "project_id": "englishcrossword-37320",
+    "storage_bucket": "englishcrossword-37320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979173611626:android:0329ce8cabcc2674219213",
+        "android_client_info": {
+          "package_name": "com.example.englishcrosswordgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979173611626-g230nqgjh5ovgumvkbvgltb3ok0qoa8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCUex69oiFUEV1KUij_w95zwFSp-fQPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979173611626-g230nqgjh5ovgumvkbvgltb3ok0qoa8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979173611626:android:54589c9fc71db3cf219213",
+        "android_client_info": {
+          "package_name": "com.example.loadertestingcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979173611626-g230nqgjh5ovgumvkbvgltb3ok0qoa8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCUex69oiFUEV1KUij_w95zwFSp-fQPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979173611626-g230nqgjh5ovgumvkbvgltb3ok0qoa8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
